@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'bundler/setup'
+require 'faultline/rack'
+
+require 'pry'
+Pry.start
