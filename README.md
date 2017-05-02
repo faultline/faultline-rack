@@ -1,4 +1,4 @@
-# Faultline::Rack
+# Faultline::Rack [![Build Status](https://travis-ci.org/faultline/faultline-rack.svg?branch=master)](https://travis-ci.org/faultline/faultline-rack)
 
 > [faultline](https://github.com/faultline/faultline) exception and error notifier for Rack application.
 
