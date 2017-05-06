@@ -66,7 +66,7 @@ end
 
 ## References
 
-- [airbrake/airbrake](https://github.com/airbrake/airbrake)
+- faultline-rack is based on [airbrake/airbrake](https://github.com/airbrake/airbrake)
     - Airbrake is licensed under [The MIT License (MIT)](https://github.com/airbrake/airbrake/LICENSE.md).
 
 ## License
