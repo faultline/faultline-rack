@@ -10,7 +10,7 @@ DummyApp = Rack::Builder.new do
       end
     )
   end
-
+  # rubocop:disable Lint/AmbiguousBlockAssociation
   map '/crash' do
     run proc { |_env| raise FaultlineTestError }
   end

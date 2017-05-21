@@ -32,7 +32,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'webmock', '~> 2'
   spec.add_development_dependency 'rack-test', '~> 0'
   spec.add_development_dependency 'warden', '~> 1.2.6'
-  spec.add_development_dependency 'rubocop', '~> 0.47.0'
+  spec.add_development_dependency 'rubocop', '~> 0.48.0'
   spec.add_development_dependency 'octorelease'
   spec.add_development_dependency 'pry'
 end
